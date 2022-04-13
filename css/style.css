@@ -1293,6 +1293,12 @@ body {
 }
 
 @media screen and (max-width: 767px) {
+  .title_big {
+  font-size: 30px;
+  } 
+  .text_italic {
+  font-size: 14px;
+  } 
   ._container {
     max-width: 700px;
   }
@@ -1427,10 +1433,4 @@ body {
             flex: 0 1 100%;
     max-width: none;
   }
-  .title_big {
-  font-size: 30px;
-  } 
-  .text_italic {
-  font-size: 14px;
-  } 
 }
