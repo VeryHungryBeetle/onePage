@@ -1333,7 +1333,7 @@ body {
   .about__content {
     position: absolute;
     bottom: 0;
-    max-height: 100px;
+    max-height: 150px;
     max-width: 500px;
     text-align: center;
     margin: 0;
